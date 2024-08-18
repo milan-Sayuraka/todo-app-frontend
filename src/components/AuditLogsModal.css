@@ -1,0 +1,38 @@
+.audit-logs-modal .ant-modal-content {
+    border-radius: 8px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.audit-logs-modal .ant-modal-title {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.audit-logs-modal .ant-timeline-item-content {
+    font-size: 16px;
+    color: #595959;
+}
+
+.audit-logs-modal .ant-timeline-item-head {
+    background-color: #1890ff;
+}
+
+.audit-logs-modal .ant-timeline-item-content .ant-typography {
+    color: #595959;
+}
+
+.audit-logs-modal .ant-timeline-item-content .ant-typography strong {
+    color: #000;
+    font-weight: bold;
+}
+
+.audit-logs-modal .ant-timeline-item-content .ant-typography {
+    display: block;
+    margin-bottom: 8px;
+}
+
+.audit-logs-modal .ant-timeline-item-content .ant-typography:last-child {
+    margin-bottom: 0;
+}

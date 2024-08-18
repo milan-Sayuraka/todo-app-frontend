@@ -1,0 +1,43 @@
+.layout {
+    min-height: 100vh;
+    background-color: #f0f2f5;
+  }
+  
+  .site-layout-content {
+    padding: 24px;
+    background: #fff;
+    min-height: 280px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+  }
+  
+  /* Header styles */
+  .ant-layout-header {
+    background-color: #667079;
+    padding: 0 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .logo {
+    width: 120px;
+    /* height: 31px; */
+    /* background: rgba(255, 255, 255, 0.2); */
+    margin: 16px 0;
+    float: left;
+  }
+  
+  .logo img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  /* Typography */
+  h1 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+  }

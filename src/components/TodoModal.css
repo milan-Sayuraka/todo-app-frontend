@@ -1,0 +1,48 @@
+.todo-modal .ant-modal-content {
+    border-radius: 8px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+  
+  .todo-modal .ant-form-item {
+    margin-bottom: 16px;
+  }
+  
+  .todo-modal .ant-input,
+  .todo-modal .ant-select-selector,
+  .todo-modal .ant-input-textarea {
+    border-radius: 4px;
+    padding: 8px;
+    font-size: 14px;
+  }
+  
+  .todo-modal .ant-checkbox-wrapper {
+    display: flex;
+    align-items: center;
+    padding: 8px 0;
+  }
+  
+  .todo-modal .ant-btn {
+    border-radius: 4px;
+    padding: 6px 16px;
+  }
+  
+  .todo-modal .ant-btn-primary {
+    background-color: #1890ff;
+    border-color: #1890ff;
+  }
+  
+  .todo-modal .ant-btn-primary:hover {
+    background-color: #40a9ff;
+    border-color: #40a9ff;
+  }
+  
+  .todo-modal .ant-btn-default {
+    border-color: #d9d9d9;
+  }
+  
+  .todo-modal .ant-btn-default:hover {
+    border-color: #bfbfbf;
+  }
+  
